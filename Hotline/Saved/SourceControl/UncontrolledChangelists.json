@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Icons/FloatingCircle.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Icons/interact_Icon.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/BP_Item.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OV/S84VVZMK7799DKKT5LXOQJ.uasset"
 			]
 		}
 	]
