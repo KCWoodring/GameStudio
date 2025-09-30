@@ -10,7 +10,11 @@
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Icons/interact_Icon.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/BP_Item.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/OV/S84VVZMK7799DKKT5LXOQJ.uasset",
-				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Maps/KacyTest.umap"
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Maps/KacyTest.umap",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/InteractInterface.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Widget/W_SettingsMenu.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Widget/W_HUD.uasset"
 			]
 		}
 	]
