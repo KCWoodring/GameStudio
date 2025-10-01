@@ -14,7 +14,12 @@
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/InteractInterface.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Widget/W_SettingsMenu.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Widget/W_HUD.uasset"
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Widget/W_HUD.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Effects/PhoneFlashlight/FlashlightTexture.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Effects/PhoneFlashlight/M_Flashlight.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/Actions/IA_Flashlight.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/Actions/IA_SettingsMenu.uasset"
 			]
 		}
 	]
