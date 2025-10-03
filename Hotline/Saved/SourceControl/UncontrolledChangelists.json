@@ -20,7 +20,11 @@
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/Actions/IA_Flashlight.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/Actions/IA_SettingsMenu.uasset",
-				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/Actions/IA_Interact.uasset"
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/BP_InspectItem.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/RT_Inspect.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/M_InspectCamera.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/W_Inspect.uasset"
 			]
 		}
 	]
