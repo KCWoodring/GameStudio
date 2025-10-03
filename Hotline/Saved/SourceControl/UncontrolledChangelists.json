@@ -24,7 +24,9 @@
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/BP_InspectItem.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/RT_Inspect.uasset",
 				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/M_InspectCamera.uasset",
-				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/W_Inspect.uasset"
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/Inspect/W_Inspect.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/BP_BaseItem.uasset",
+				"C:/Users/kceri/Documents/GitHub/GameStudio/Hotline/Content/FirstPerson/Blueprints/BP_InspectableCube.uasset"
 			]
 		}
 	]
